@@ -19,6 +19,8 @@
 
 🔭 I am currently learning java. 
 
+⚡ A significant number of my repositories are private, but I maintain consistent activity.
+
 <div align="left">
     <h3> Languages and Tools:</h3>
     <div>
